@@ -1,0 +1,34 @@
+body {
+    background:blue;
+}
+
+.header_div{
+    background:red;
+    color:white;
+}
+
+.header_div p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+    letter-spacing:3px;
+    font-size:20px;
+}
+
+.good button{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top:30px;
+    width:130px;
+    font-weight:bold;
+    letter-spacing:3px;
+
+}
+
+.dog {
+    position:fixed;
+    bottom:0px;
+    background-color:cyan;
+    color:red;
+    text-align:center;
+    width:100%;
+    line-height: 3;
+}
